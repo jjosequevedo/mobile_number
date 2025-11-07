@@ -13,12 +13,6 @@
     ],
     "license": "GPL-2.0+",
     "minimum-stability": "dev",
-    "repositories": [
-        {
-        "type": "composer",
-        "url": "https://packages.drupal.org/8"
-        }
-    ],
     "require": {
         "giggsey/libphonenumber-for-php": "^8.0"
     },
