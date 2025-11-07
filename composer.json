@@ -19,10 +19,5 @@
     "require-dev": {
         "drupal/smsframework": "^2.3",
         "drupal/dynamic_entity_reference": "^3 || ^4"
-    },
-    "extra": {
-	"branch-alias": {
-	    "dev-main": "9.0.x-dev"
-	}
     }
 }
